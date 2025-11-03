@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: hl-verify-wallet
+Version: 0.1.0
+Summary: Hyperliquid wallet fills verification tool (Redshift ↔︎ HL)
+Requires-Python: >=3.10
